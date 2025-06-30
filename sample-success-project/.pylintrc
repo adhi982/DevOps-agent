@@ -1,8 +1,0 @@
-[MESSAGES CONTROL]
-disable=missing-docstring, C0114, C0115, C0116, import-error, no-name-in-module, trailing-whitespace
-
-[REPORTS]
-output-format=json
-
-[FORMAT]
-max-line-length=120 
